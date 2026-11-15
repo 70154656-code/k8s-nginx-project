@@ -1,0 +1,1 @@
+# No Python dependencies. This project uses Kubernetes YAML with the nginx image.
